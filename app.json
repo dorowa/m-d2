@@ -1,0 +1,6 @@
+{
+  "name": "ok_ne_ok",
+  "description": "ok_ne_ok project to deploy to Heroku.",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle" ]
+}
